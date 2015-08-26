@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:jessie
 MAINTAINER Leandro David Cacciagioni <leandro.21.2008@gmail.com>
 
 RUN export DEBIAN_FRONTEND=noninteractive && \
