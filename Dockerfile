@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:wheezy
 MAINTAINER Leandro David Cacciagioni <leandro.21.2008@gmail.com>
 
 RUN export DEBIAN_FRONTEND=noninteractive && \
