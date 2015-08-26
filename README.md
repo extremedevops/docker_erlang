@@ -1,5 +1,7 @@
 # Erlang / OTP
 
+[![](https://badge.imagelayers.io/extremedevops/erlang:latest.svg)](https://imagelayers.io/?images=extremedevops/erlang:latest 'Get your own badge on imagelayers.io')
+
 Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance. And OTP is set of Erlang libraries and design principles providing middle-ware to develop these systems. It includes its own distributed database, applications to interface towards other languages, debugging and release handling tools.
 
 For more information visit the [erlang website](http://www.erlang.org/)
